@@ -10,7 +10,7 @@ namespace HybridCoreAndClassic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Classic");
+            Console.WriteLine("Hello classic");
         }
     }
 }
