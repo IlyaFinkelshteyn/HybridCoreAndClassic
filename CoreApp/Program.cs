@@ -9,7 +9,7 @@ namespace CoreApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello Core");
+            Console.WriteLine("Hello core");
         }
     }
 }
